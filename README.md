@@ -92,6 +92,6 @@ Todos os serviços (backend, frontend, banco de dados, Kafka, carga inicial no b
 ## 🧑‍💻 Autor
 
 Breno Gomes  
-[LinkedIn](https://www.linkedin.com/in/breno-gomes-772a2431/) *(atualize com seu link real, se desejar)*
+[LinkedIn](https://www.linkedin.com/in/breno-gomes-772a2431/)
 
 ---
