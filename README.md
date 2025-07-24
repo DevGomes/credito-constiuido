@@ -32,7 +32,7 @@ Este projeto é uma **Prova de Conceito (POC)** para uma aplicação de **consul
 
 ```bash
 git clone https://github.com/DevGomes/credito-constiuido.git
-cd nome-do-projeto
+cd credito-constiuido
 ```
 
 ### 2. Certifique-se de ter o Docker instalado e em execução
